@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Card_App</string>
+    <string name="title_activity_activity_settings">activity_settings</string>
+    <string name="title_activity_activity_search">activity_search</string>
+    <string name="playButton">playButton</string>
+    <string name="logoImage">logoImage</string>
+    <string name="backButton">Back Button</string>
+    <string name="settingsButton">Settings Button</string>
+    <string name="backbutton">exitbutton</string>
+
+    <!--Activity titles-->
+    <string name="appTitle">Master of Cards</string>
+    <string name="settingsTitle">Settings</string>
+    <string name="searchTitle">Search for card games</string>
+
+    <!--Game Names-->
+    <string name="blackjack">"Blackjack"</string>
+
+    <!--Tutorial text-->
+    <string-array name="tutorialText">
+
+        <item><string name="introduction"><![CDATA[<p>Blackjack, huh?<br/><br/> Well I hope you’re good at counting, otherwise you’re gonna have a bad time. The aim of the game is to get a higher point total than the dealer, without going over 21. <br/><br/>I bet I just said a lot of words that don’t quite make sense, right? Don’t worry, I’ll explain some of those key terms now! <br/><br/> let’s start off with the dealer.
+<br/><br/>Blackjack is a game that can be played with multiple people, but for the purposes of teaching the game, it’ll just be you and the dealer!<p>]]></string> </item>
+
+        <item><string name="dealer"><![CDATA[<h1>The Dealer</h1><p>So who is this dealer I keep mentioning? The dealer is the person who holds all of the cards at the beginning of the game, shuffles them and gives all of the players their starting cards.
+<br/><br/>Once the dealer is done ‘dealing’ enough cards, they then become your opponent!
+
+<br/><br/>Let’s do it together.<p>]]></string> </item>
+
+        <item>tutorial3</item>
+        <item>tutorial4</item>
+
+
+
+
+
+
+
+    </string-array>
+
+    <string name="nextTutorialPageButton">Next</string>
+
+    <!-- Actions -->
+    <string name="hitAction">Hit</string>
+    <string name="standAction">Stand</string>
+    <string name="insuranceAction">Insure</string>
+    <string name="splitAction">Split</string>
+    <string name="surrenderAction">Surrender</string>
+    <string name="doubleDownAction">Double Down</string>
+
+    <!-- Settings -->
+    <string name="textSize">Text Size</string>
+    <string name="sampleText">Sample Text</string>
+
+    <string name="volume">Volume</string>
+
+    <!--Font-->
+    <string name="font">Font</string>
+    <string-array name="font_array" color="#FFFFFF">
+        <item>Calibri</item>
+        <item>Times New Roman</item>
+        <item>Courier New</item>
+        <item>Arial</item>
+    </string-array>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <string name="SmallButtonString">Small</string>
+    <string name="MediumButtonString">Medium</string>
+    <string name="LargeButtonString">Large</string>
+    <string name="mascotImage" />
+
+    <string name="shareOnFacebook">Well done you have completed the tutorial!\nDo want to share this on facebook?</string>
+    <string name="share">Share button</string>
+
+    /* Facebook App ID */
+    <string name="facebook_app_id">1683296101944770</string>
+    <string name="title_activity_main_tutorial">MainTutorial</string>
+
+</resources>
